@@ -1,4 +1,4 @@
 - Olá eu sou Murilo vieira Moura
-- Estou interessado em aprender programação
-- Estou aprendendo python e javascript
-- me contactem pelo gmail: murilomoura212@gmail.com ou linkedin https://www.linkedin.com/in/murilo-vieira-moura-623bab188/
+- Sou programador
+- Estou estudando Java e Javascript
+- me contatem pelo gmail: murilomoura212@gmail.com ou linkedin https://www.linkedin.com/in/murilo-vieira-moura
